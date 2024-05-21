@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\GitHub\ComputingStockApp\ComputingStock\bin\Debug\ComputingStock.exe.config
+C:\Users\USER\Documents\GitHub\ComputingStockApp\ComputingStock\bin\Debug\ComputingStock.exe
+C:\Users\USER\Documents\GitHub\ComputingStockApp\ComputingStock\bin\Debug\ComputingStock.pdb
+C:\Users\USER\Documents\GitHub\ComputingStockApp\ComputingStock\obj\Debug\ComputingStock.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\ComputingStockApp\ComputingStock\obj\Debug\ComputingStock.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\GitHub\ComputingStockApp\ComputingStock\obj\Debug\ComputingStock.Default.resources
+C:\Users\USER\Documents\GitHub\ComputingStockApp\ComputingStock\obj\Debug\ComputingStock.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\ComputingStockApp\ComputingStock\obj\Debug\ComputingStock.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\ComputingStockApp\ComputingStock\obj\Debug\ComputingStock.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\ComputingStockApp\ComputingStock\obj\Debug\ComputingStock.exe
+C:\Users\USER\Documents\GitHub\ComputingStockApp\ComputingStock\obj\Debug\ComputingStock.pdb
